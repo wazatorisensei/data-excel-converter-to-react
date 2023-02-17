@@ -1,4 +1,4 @@
-export {};
+export function handleFileSelection() {return null}
 
 // import { ChangeEvent, useState } from "react";
 // import { ITableData } from "../interfaces";
